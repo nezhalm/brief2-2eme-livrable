@@ -153,7 +153,7 @@ body {
 }
 .ddd{
   width: 100%;
-  background-image: url("../ima/im.webp");
+  background-image: url("../img/im.webp");
   height: 136vh;
 }
  .logo{
@@ -412,7 +412,7 @@ body {
 .hero_area {
   height: 100vh;
   position: relative;
-  background-image: url(../ima/im.webp);
+  background-image: url(../img/im.webp);
   background-size: cover;
   background-position: bottom right;
   background-repeat: no-repeat;
