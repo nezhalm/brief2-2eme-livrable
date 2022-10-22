@@ -2,7 +2,17 @@ body {
   font-family: "Poppins", sans-serif;
   color: #0c0c0c;
   background-color: #ffffff;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  
 }
+.btnClass{
+  display: flex;
+  align-content: center;
+
+}
+
 .infoclient p{
   width: 400px;
   font-size: small;
@@ -107,14 +117,16 @@ body {
 }
 .bt{
   background-color: rgb(235, 141, 0);
-  height: 50px;
-  width: 230px;
-  border: none;
-  color: white;
-  border-radius: 30px;
-  font-size: x-large;
-  margin-left: 500px;
-  margin-top: 88px;
+height: 50px;
+width: 230px;
+border: none;
+color: white;
+border-radius: 30px;
+font-size: x-large;
+margin-left: 38%;
+margin-top: 88px;
+  /* align-content: center; */
+
 }
 
 .content .car1 .right {
@@ -155,6 +167,7 @@ body {
   width: 100%;
   background-image: url("../img/im.webp");
   height: 136vh;
+  align-content: center;
 }
  .logo{
   background-color: #00000067;
@@ -206,27 +219,38 @@ body {
   font-size: 50px;
   letter-spacing: 1px;
   } 
-  .phrase2{ 
-    margin-top: 100px;
-    margin-left: 200px;
+  .discover{
     color: rgb(255, 255, 255);
-    font-size:x-large;
-    font-weight:300;
-    font-family:unset; 
-    background-color: black;
-    background-position-x:left;
-    position:relative;
-    border-radius: 30px;
-    width: 540px;
-    text-align: center;
-    font-size: 50px;
-    letter-spacing: 1px;
+    width: 673px;
+    margin-left: 16px;
+    margin-top: 32px;
+    margin-bottom: 80px;
+    font-size: x-large;
+    background-color: rgba(0, 0, 0, 0.614);
+    border-radius: 20px;
+    padding-left: 16px;
+    line-height: 55px;
+  }
+  
+  .phrase2{ 
+    margin-top: 91px;
+margin-left: 24px;
+color: rgb(255, 255, 255);
+font-size: x-large;
+font-weight: 300;
+font-family: unset;
+background-color: black;
+background-position-x: left;
+position: relative;
+border-radius: 83px;
+width: 305px;
+text-align: center;
+font-size: 28px;
+letter-spacing: 1px;
     } 
-    .phrase2 p{
-      width: 200px;
-    }
+    
  
-  p{
+   p{
     color: rgb(255, 255, 255);
     width: 800px;
     margin-left: 100px;
@@ -237,7 +261,7 @@ body {
     border-radius: 20px;
     padding-left: 20px;
     line-height: 60px;
-  }
+  } 
   .buton{
   background-color: rgb(235, 141, 0);
   height: 50px;
@@ -1323,9 +1347,6 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 
-body {
-  background: #F2F3EB;
-}
 
 button {
   overflow: visible;
