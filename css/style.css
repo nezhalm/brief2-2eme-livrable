@@ -166,6 +166,8 @@ body {
 .ddd{
   width: 100%;
   background-image: url("../img/im.webp");
+  background-size: 100%;
+  background-repeat: no-repeat;
   height: 136vh;
   align-content: center;
 }

@@ -182,3 +182,28 @@ margin-top: 88px;
 
   }
 }
+@media(min-width:200px) {
+  .button4{
+    margin-left: 77px;
+  }
+  .finbuton{
+    margin-left: 70px;
+  }
+  .ecriture{
+    width: 300px;
+  }
+  .bt0{
+    margin-left: 70px;
+  }
+  .imagefin{
+    width: 295px;
+    height: 315px;
+  }
+  .logo img{
+    width: 100px;
+  }
+  .texto{
+    width: 20%;
+margin-left: -300px;
+  }
+}
