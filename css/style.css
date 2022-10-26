@@ -48,6 +48,11 @@ body {
   margin-left: 500px;
   margin-top: 88px;
 }
+.ecriture{
+  width: 500px; 
+  display:flex;
+   margin-top: -229px;
+}
 .button4{
   background-color: rgb(189, 116, 6);
   height: 50px;
@@ -60,6 +65,9 @@ body {
   margin-top: 88px;
   margin-bottom: 88px;
   
+}
+.ph1{
+  margin-top: 50px; width: 914px;
 }
 .finbuton{
   background-color: rgb(235, 141, 0);
@@ -1655,7 +1663,7 @@ textarea {
 }
 .container0{
   max-width: 1200px;
-  margin: auto;
+  /* margin: auto; */
   background: #fffefe;
   overflow: auto;
   margin-top: 30px;

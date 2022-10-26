@@ -108,6 +108,7 @@
   .heading_container h2::before {
     display: none;
   }
+ 
 }
 
 @media (max-width: 360px) {}
@@ -120,13 +121,13 @@
 @media(min-width:300px){
   .phrase2{
     margin-top: 91px;
-    margin-left: 0px;
+    margin-left: 212px;
     color: rgb(255, 255, 255);
     font-size:x-large;
     font-weight:300;
     font-family:unset; 
     background-color: black;
-    background-position-x:left;
+  
     position:relative;
     border-radius: 30px;
     width: 305px;
@@ -148,26 +149,32 @@
     border-radius: 20px;
     padding-left: 20px;
     line-height: 50px;
-  }
-  }
-  @media(min-width:300px) {
-    
-  .bt{
-    background-color: rgb(235, 141, 0);
-height: 50px;
-width: 230px;
-border: none;
-color: white;
-border-radius: 30px;
-font-size: x-large;
-margin-left: 77px;
-margin-top: 88px;
   }}
+  @media (max-width:400px) {
+   .imagefin img{
+    width: 341px;
+    height: 301px;
+   }
+  .ecriture{
+    width: 381px;
+    margin-left: 10px;
+  }
+  .ph1{
+    margin-top: 30px;
+    width: 401px;
+    margin-left: 172px;
+  }
+  
+ }
+    
+ 
 @media (min-width:300px) {
   
 .bt{
-  margin-left: 21%;
-}}
+margin-left: 22%;
+margin-top: -33px;
+}
+}
 @media(min-width:300px){
   .conélément {
     margin-top: 60px;
@@ -189,9 +196,7 @@ margin-top: 88px;
   .finbuton{
     margin-left: 70px;
   }
-  .ecriture{
-    width: 300px;
-  }
+ 
   .bt0{
     margin-left: 70px;
   }
