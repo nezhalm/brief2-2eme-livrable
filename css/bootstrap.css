@@ -8344,6 +8344,7 @@ button.bg-dark:focus {
 .ml-auto,
 .mx-auto {
   margin-left: auto !important;
+  background-color: #ffdf7e !important;
 }
 
 @media (min-width: 576px) {

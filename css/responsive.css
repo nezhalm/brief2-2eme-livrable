@@ -122,13 +122,17 @@
   #container{
     margin-top: -390px;
   }
+  .d-flex ml-auto flex-column flex-lg-row align-items-center{
+    background-color: rgba(240, 248, 255, 0.518);
+  }
+  
 }
 
 
 @media(min-width:300px){
   .phrase2{
     margin-top: 91px;
-    margin-left: 212px;
+    margin-left: 1142px;
     color: rgb(255, 255, 255);
     font-size:x-large;
     font-weight:300;
@@ -165,11 +169,13 @@
   .ecriture{
     width: 381px;
     margin-left: 10px;
+    font-size: 1rem;
   }
   .ph1{
     margin-top: 30px;
-    width: 401px;
-    margin-left: 172px;
+    width: 27%;
+    margin-left: 1107px;
+    font-size: 1rem;
   }
   
  }
