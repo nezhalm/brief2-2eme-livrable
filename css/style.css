@@ -71,10 +71,10 @@ body {
   margin-bottom: 88px;
   
 }
-.ph1{
+/* .ph1{
   margin-top: 50px; width: 914px;
   margin-left: 100px;
-}
+} */
 .finbuton{
   background-color: rgb(235, 141, 0);
   height: 50px;
@@ -250,18 +250,18 @@ body {
   
   .phrase2{ 
     margin-top: 91px;
-margin-left: 24px;
+margin-left: 815px;
 color: rgb(255, 255, 255);
-font-size: x-large;
+font-size: 30px;
 font-weight: 300;
 font-family: unset;
 background-color: black;
-background-position-x: left;
+
 position: relative;
 border-radius: 83px;
-width: 305px;
+width: 303px;
 text-align: center;
-font-size: 28px;
+
 letter-spacing: 1px;
     } 
     
@@ -342,7 +342,7 @@ letter-spacing: 1px;
     margin-top: 70px;
     margin-bottom: 20px;
     font-size: 2rem;
-    margin-left: 30px;
+    margin-left: 772px;
     width: 600px;
   }
   .p1{
