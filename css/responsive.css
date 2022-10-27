@@ -9,6 +9,7 @@
   .quote_btn-container {
     display: none;
   }
+  
 
 
   .ring_section .ring_container .detail-box {
@@ -111,13 +112,19 @@
  
 }
 
-@media (max-width: 360px) {}
-
-@media (min-width: 1200px) {
-  .container {
-    max-width: 1170px;
+@media (max-width: 400px) { 
+  .phrase3{
+    height: 55px;
+    width: 250px;
+    margin-left: 37%;
+    margin-top: 50px;
+  }
+  #container{
+    margin-top: -390px;
   }
 }
+
+
 @media(min-width:300px){
   .phrase2{
     margin-top: 91px;
@@ -174,6 +181,7 @@
 margin-left: 22%;
 margin-top: -33px;
 }
+
 }
 @media(min-width:300px){
   .conélément {
@@ -194,7 +202,7 @@ margin-top: -33px;
     margin-left: 77px;
   }
   .finbuton{
-    margin-left: 70px;
+ 
   }
  
   .bt0{
@@ -207,8 +215,5 @@ margin-top: -33px;
   .logo img{
     width: 100px;
   }
-  .texto{
-    width: 20%;
-margin-left: -300px;
-  }
+ 
 }
